@@ -47,4 +47,3 @@ I build **high-performance web & mobile apps** with React, React Native, and mod
 - **UnifiMusic**  
 - **NyxCipher**  
 - **Techvestor v2**  
-- **Jumpapp Challenge**  
